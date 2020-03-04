@@ -15,4 +15,8 @@ Current ROS2 supported robots and drivers:
 
 - [raspimouse_ros2](https://github.com/youtalk/raspimouse_ros2) [ros-discourse_link](https://discourse.ros.org/t/yet-another-ros-2-navigation-robot-raspberry-pi-mouse/10670)
 
+Focus on navigation2 
+- 
+- Relevant paper in docs/marathon2 - iros 2020 paper marathon2 - contains detailed info about ros2 navigation2 and inforamtion of experiment done in lab
+
 
