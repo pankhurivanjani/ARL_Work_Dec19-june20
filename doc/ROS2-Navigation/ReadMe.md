@@ -12,6 +12,8 @@ ROS2 Navigtion
 
 * Probable cause of failure in this method- we  are providing different world, and different localization. Localization failure ???
 
+* Most of the robots using ros2 navigation rely on Laser scan and SLAM
+
 * What next???
 
 * Let's play around with localization! 
