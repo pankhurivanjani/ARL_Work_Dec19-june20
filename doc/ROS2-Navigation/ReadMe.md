@@ -22,6 +22,8 @@ ROS2 Navigtion
 
 * Implement something simpler, maybe your own linear function converting GPS lat-lons to your own co-ordinate system OR for complexity Kalman filter based localization
 
+* Where/how to fit/link the new localizer instead of amcl in the navigation stack 
+
 https://github.com/ArghyaChatterjee/GPS-waypoint-based-Autonomous-Navigation-in-ROS
 
 
