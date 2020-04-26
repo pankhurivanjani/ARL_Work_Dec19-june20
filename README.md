@@ -19,6 +19,11 @@ Focus on navigation2
 - 
 - Relevant paper in [docs/marathon2](https://github.com/pankhurivanjani/ARL_Work_Dec19-june20/blob/master/doc/marathon-ros2.pdf) - iros 2020 paper marathon2 - contains detailed info about ros2 navigation2 and inforamtion of experiment done in lab
 
+foxy features:
+
+[#830](https://github.com/ros2/ros2/issues/830)
+
+[Foxy API freeze coming up](https://discourse.ros.org/t/foxy-api-freeze-coming-up/13480/2)
 micr-ros review:
 
 - https://answers.ros.org/question/349941/benefit-from-implementing-ros2-on-microcontrollers/
